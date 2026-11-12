@@ -1,0 +1,11 @@
+{
+  "name": "MyFocus – MyDigital",
+  "short_name": "MyFocus",
+  "description": "Konzentriert arbeiten, bewusst pausieren und Fortschritte sehen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101118",
+  "theme_color": "#11121a",
+  "icons": [{"src":"./icons/myfocus.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
